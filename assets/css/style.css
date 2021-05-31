@@ -57,6 +57,7 @@ i {
 #forecast-weather {
   color: white;
 }
+
 .card {
   padding-left: 10px;
   padding-top: 20px;
@@ -94,15 +95,15 @@ li {
   text-align: center;
 }
 
+h4 {
+  padding-bottom: 10px;
+}
+
 h3 {
   margin-top: 5px;
 }
 
 h2 {
-  padding-bottom: 10px;
-}
-
-h4 {
   padding-bottom: 10px;
 }
 
