@@ -15,3 +15,7 @@ Application deploys successfully and is user ready.
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/75143471/120135048-43aa2500-c184-11eb-97db-f06420c0b72c.png)
+
+## License
+
+...
